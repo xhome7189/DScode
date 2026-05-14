@@ -6,7 +6,7 @@ import os
 from pathlib import Path
 
 # === DeepSeek API 配置 ===
-DEEPSEEK_API_KEY = ""
+DEEPSEEK_API_KEY = "sk-6e8bbb498ada47b7b673e1b5ca31743d"
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 DEEPSEEK_MODEL = "deepseek-chat"  # deepseek-chat 或 deepseek-reasoner
 
